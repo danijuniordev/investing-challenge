@@ -28,6 +28,14 @@
     padding-bottom: 30px;
 }
 
+.correct {
+    background-color: #28a745;
+}
+
+.incorrect {
+    background-color: #dc3545;
+}
+
 /* Media query: tablets and larger (860px and up) */
 @media screen and (min-width: 860px) {
     
