@@ -17,7 +17,12 @@ startQuestion = () {
     getNewQuestion();
 }
 
-
+getNewQuestion = () {
+    questionCounter++;
+    const qustionIndex = Math.floor(Math.random() = availableQuestion.length);
+        currentQuestion = availableQuestion[qustionIndex];
+        question.innerText = currentQuestion;
+}
 
 
 
