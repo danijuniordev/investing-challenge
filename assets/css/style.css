@@ -5,9 +5,69 @@
 }
 
 /* General styles */
-/* General styles */
 body {
     min-height: 100vh;
     display: flex;
     background-color: #b6e0d9;
+    color: #333;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.tex-center {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Container */
+
+.container {
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80rem;
+    margin: 0 auto;
+}
+
+
+/* Button */
+
+.btn {
+    font-size: 40px;
+    padding: 1rem 0;
+    text-align: center;
+    border: 2px solid #00ffd5;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #333;
+    background-color: white;
+}
+
+.btn:hover {
+    cursor: pointer;
+    box-shadow: 0 2px 2px 0 #333;
+    transition: transform 150ms;
+}
+
+.btn[:disabled]:hover {
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
 }
