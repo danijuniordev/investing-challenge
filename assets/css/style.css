@@ -51,7 +51,7 @@ h1 {
     align-items: center;
     max-width: 80rem;
     margin: 0 auto;
-    padding: 20px;
+    padding: 40px;
 }
 
 
@@ -75,20 +75,9 @@ h1 {
     transition: transform 150ms;
 }
 
-.btn[:disabled]:hover {
+.btn:disabled:hover {
     cursor: not-allowed;
     box-shadow: none;
     transform: none;
 }
 
-/* Media query: tablets and larger (860px and up) */
-@media screen and (min-width: 860px) {
-    
-    h1 {
-        font-size: 50px;
-        text-transform: uppercase;
-        padding: 20px;
-        color: #70c2b6;
-    }
-
-}
