@@ -113,7 +113,7 @@ function getNewQuestion() {
 
     // Progress bar
 
-    progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}px`;
+    progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 197}px`;
 
     const questionIndex = Math.floor(Math.random() * availableQuestions.length);
     currentQuestion = availableQuestions[questionIndex];
