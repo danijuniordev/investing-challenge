@@ -95,3 +95,11 @@ form {
     font-size: 40px;
 }
 
+input {
+    margin-bottom: 15px;
+    width: 200px;
+    padding: 10px;
+    font-size: 18px
+    border: none;
+}
+
