@@ -81,3 +81,17 @@ h1 {
     transform: none;
 }
 
+/* Form end page */
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#finalScore {
+    text-align: center;
+    font-size: 40px;
+}
+
