@@ -14,3 +14,12 @@ Develop an interactive investment quiz aimed at educating users about key invest
 To introduce new users to the investment quiz, providing them with a seamless and intuitive experience that allows them to easily navigate the quiz, understand its purpose, and engage with the content. The goal is to ensure that first-time users feel comfortable and motivated to participate in the quiz, setting the stage for a positive and rewarding learning experience.
 
 ## User Stories
+### First-Time Users
+- **User-Friendly Interface:**:  
+*I want the site to be intuitive and welcoming,so the user can easily undestand how to play and navegate trought the game*
+
+- **Progress Tracking:**:  
+*Display clear indicators of progress throughout the game, such as a progress bar and score, to show users how far they have progressed and how much is left to complete.*
+
+- **Responsive Design:**: 
+*Ensure that the website is optimized for various devices and screen sizes, including desktop computers, laptops, tablets, and smartphones. A responsive design will make it easier for users to access and play the game on their preferred device.*
