@@ -23,3 +23,20 @@ To introduce new users to the investment quiz, providing them with a seamless an
 
 - **Responsive Design:**: 
 *Ensure that the website is optimized for various devices and screen sizes, including desktop computers, laptops, tablets, and smartphones. A responsive design will make it easier for users to access and play the game on their preferred device.*
+
+## Design
+### Colour Scheme
+*Background Color (#b6e0d9 - Pale Turquoise):* This color choice can create a calming and inviting atmosphere, which can be beneficial for a quiz game website. Pale turquoise is soft on the eyes and provides a pleasant backdrop for the content.
+
+*Question Text Color (#000000 - Black):* Black text on a light background offers high contrast and readability, ensuring that questions are easy to read for users. It's a classic choice that works well for conveying information clearly.
+
+*Container Background Color (#FFFFFF - White):* Using white for containers helps create a clean and organized layout. White backgrounds provide a sense of spaciousness and allow other colors and elements to stand out effectively.
+
+*Progress Bar and Score Color (#70c2b6):* This shade of greenish-blue adds a touch of vibrancy and energy to the interface. It can symbolize progress, growth, and success, which are all relevant to the context of a quiz game. Ensure that the progress bar and score are clearly visible against the background color for easy tracking.
+
+## Wireframes
+
+comming soon
+
+### Features
+The investment exam quiz game offers users interactive pages including the Home page, High score, Quiz game, Play again, and Save score, providing an engaging and educational experience for participants.
