@@ -10,6 +10,7 @@ let score = 0;
 let questionCounter = 0;
 let availableQuestions = [];
 
+// Question
 let questions = [
     {
         question: "What does ROI stand for in investments?",
@@ -113,7 +114,6 @@ function getNewQuestion() {
     progressText.innerText = `question ${questionCounter}/${MAX_QUESTIONS}`;
 
     // Progress bar
-
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 197}px`;
 
     const questionIndex = Math.floor(Math.random() * availableQuestions.length);
