@@ -53,7 +53,7 @@ h1 {
 /* Container */
 
 .container-main-page {
-    width: 40vh;
+    width: 42vh;
     height: 45vh;
     display: flex;
     justify-content: center;
@@ -254,6 +254,6 @@ input {
     
     .answer-container {
         width: 100vh
-    }
+    } 
 
 }
