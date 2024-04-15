@@ -46,14 +46,15 @@ h1 {
 }
 
 #h1-main-page {
+    text-align: center;
     color: #fff;
 }
 
 /* Container */
 
 .container-main-page {
-    width: 45vh;
-    height: 40vh;
+    width: 40vh;
+    height: 45vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -92,7 +93,7 @@ h1 {
 
 .btn:hover {
     cursor: pointer;
-    box-shadow: 0 2px 2px 0 #64d3c3;
+    box-shadow: 0 3px 3px 0 #ffffff;
     transition: transform 150ms;
 }
 
@@ -154,7 +155,7 @@ input {
 
 .answer-container:hover {
     cursor: pointer;
-    box-shadow: 0 2px 2px 0 #64d3c3;
+    box-shadow: 0 3px 3px 0 #64d3c3;
     transition: transform 150ms;
 }
 
@@ -218,8 +219,38 @@ input {
     width: 0%;
 }
 
-/* Media query: tablets and larger (860px and up) */
-@media screen and (min-width: 860px) {
+@media only screen and (orientation: landscape) {
+    .container-main-page {
+        width: 80vh;
+        height: 80vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 80rem;
+        margin: auto;
+        padding: 40px;
+        border: 2px solid white;
+        background-color: #70c2b68e;
+        border-radius: 40px;
+    }
+}
+
+/* Media query: tablets and larger (900px and up) */
+@media screen and (min-width: 900px) {
+
+    .container-main-page {
+        width: 45vh;
+        height: 40vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 80rem;
+        margin: auto;
+        padding: 40px;
+        border: 2px solid white;
+        background-color: #70c2b68e;
+        border-radius: 40px;
+    }
     
     .answer-container {
         width: 100vh
