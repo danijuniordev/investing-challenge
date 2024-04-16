@@ -16,13 +16,13 @@ To introduce new users to the investment quiz, providing them with a seamless an
 ## User Stories
 ### First-Time Users
 - **User-Friendly Interface:** 
-*I want the site to be intuitive and welcoming,so the user can easily undestand how to play and navegate trought the game*
+I want the site to be intuitive and welcoming,so the user can easily undestand how to play and navegate trought the game
 
 - **Progress Tracking:**  
-*Display clear indicators of progress throughout the game, such as a progress bar and score, to show users how far they have progressed and how much is left to complete.*
+Display clear indicators of progress throughout the game, such as a progress bar and score, to show users how far they have progressed and how much is left to complete.
 
 - **Responsive Design:** 
-*Ensure that the website is optimized for various devices and screen sizes, including desktop computers, laptops, tablets, and smartphones. A responsive design will make it easier for users to access and play the game on their preferred device.*
+Ensure that the website is optimized for various devices and screen sizes, including desktop computers, laptops, tablets, and smartphones. A responsive design will make it easier for users to access and play the game on their preferred device.
 
 ## Design
 ### Colour Scheme
@@ -41,39 +41,42 @@ To introduce new users to the investment quiz, providing them with a seamless an
 ## Features
 The investment exam quiz game offers users interactive pages including the Home page, High score, Quiz game, Play again, and Save score, providing an engaging and educational experience for participants.
 
-### Main
-- Welcome Cointainer 
-The quiz game consists of a Start button to initiate the quiz and a High Score button to access the leaderboard.
+#### Welcome Cointainer 
+- The quiz game consists of a Start button to initiate the quiz and a High Score button to access the leaderboard.
 
 ![Main](assets/images/indexpage.png)
 
-- Progress Bar and Score
-The user can track their progress and view their score throughout the game.
+#### Progress Bar and Score
+- The user can track their progress and view their score throughout the game.
 ![Progress](assets/images/hud.png)
 
-- Question Cointainer
-The quiz interface displays questions along with four options. After selecting an option, it is highlighted, with a color indication (such as green for correct and red for incorrect) to indicate whether the choice was right or not.
+#### Question Cointainer
+-In the quiz interface, questions are presented alongside four options. Upon selecting an option, it is immediately highlighted with a color indication (green for correct and red for incorrect) to denote the accuracy of the choice. Additionally, the interface seamlessly transitions to the next question after a brief one-second interval, eliminating the need for the user to click a button to proceed.
 
 ![Question](assets/images/question.png)
+![Question](assets/images/rightanswer.png)
+![Question](assets/images/wronganswer.png)
 
-- Score Container
-After completing the quiz, the interface displays your result. You have the option to input your name and save your score, or alternatively, you can choose to play again or return to the home page.
+#### Score Container
+- After completing the quiz, the interface displays your result. You have the option to input your name and save your score, or alternatively, you can choose to play again or return to the home page.
 
 ![Score](assets/images/scorepage.png)
 
-- High Score
-The user can also save their score, but first, they need to fill in their name in the input field. If the input field is left empty, the user won't be able to click on the save button.
+#### High Score
+- The user can also save their score, but first, they need to fill in their name in the input field. If the input field is left empty, the user won't be able to click on the save button.
 
 ![HighScore](assets/images/Highscore.png)
 
 ## Technologies Used
 
- 1. **HTML** The structure of the website.
- 2. **CSS** Styling using custom CSS.
- 3. **Javascript** Used to provide functionality to make my website interactive.
- 4. **Visual Studio Code** Local IDE.
- 5. **GitHub** Source code hosting and deployment.
- 6. **Git** Version control.
- 7. **Font Awesome** Icons.
- 8. **Favicon.io** Favicon creation.
- 9. **Balsamiq** Wireframes design.
+ 1. **HTML:** The structure of the website.
+ 2. **CSS:** Styling using custom CSS.
+ 3. **Javascript:** Used to provide functionality to make my website interactive.
+ 4. **Visual Studio Code:** Local IDE.
+ 5. **GitHub:** Source code hosting and deployment.
+ 6. **Git:** Version control.
+ 7. **Font Awesome:** Icons.
+ 8. **Favicon.io:** Favicon creation.
+ 9. **Balsamiq:** Wireframes design.
+
+ ## Testing
