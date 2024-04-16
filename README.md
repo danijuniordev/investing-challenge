@@ -105,6 +105,12 @@ The investment exam quiz game offers users interactive pages including the Home 
 * JavaScript
   *  I can confirm that all JavaScript has passed without error in the official [JShint](https://jshint.com/)
 
+## Lighthouse Testing
+
+Used google developer tools, Lighthouse testing was also conducted on each of the pages. The results are as below:
+
+![Lighthouse](assets/images/Lighthouse.png)
+
 ## Deployment
 
 **The project was deployed to GitHub Pages. These steps were followed:**
@@ -114,6 +120,7 @@ The investment exam quiz game offers users interactive pages including the Home 
 * Then selected **Pages** on the left hand menu,
 * Under **Source** I selected **Deploy from a branch**,
 * Finally, under **branch** I set it to **main** - **root** and save.
+
 ![Screenshot of Deployed](assets/images/deploy.png)
 
 **Forking the GitHub Repository:**
@@ -134,3 +141,12 @@ The investment exam quiz game offers users interactive pages including the Home 
 * Press enter and your local clone will be created.
 
 The live website can be found here: <https://danijuniordev.github.io/investing-challenge/>
+
+## Credits
+
+1. **Readme References**
+ - [MarvelManiaa](https://github.com/Priyanka-Dhanabal/MarvelManiaQuiz_PP2)
+ - [Toons Quiz](https://github.com/GOkwori/Toons-Quiz?tab=readme-ov-file)
+
+2. **My mentor**
+ - [Dick Vlaanderen](https://github.com/dickvla)
