@@ -85,16 +85,56 @@ The investment exam quiz game offers users interactive pages including the Home 
 * For mobile testing, Google Chrome DevTools were utilized, and additional testing was conducted on a personal iPhone 11 Pro.
 * Responsive design has been implemented and tested on standard screen sizes using the device toolbar in Google Chrome DevTools.
 
-|--|--|
-|Users can view quiz content by clicking start  | True |
-|Users can click the right answer and it displays green | True |
-|Users can click the wrong answer and it displays red | True |
-|Users can not click any answer buttons once clicked  | True |
-|Users can go to the next question without clicking any button| True |
-|Users can view the question number they are currently on  | True |
-|Users can view the score | True |
-|Users can view the progress bar | True |
-|Users can save the score at the end of the game | True |
-|--|--|
+|----------------------------------------------------|-----------|
+| Users can view quiz content by clicking start     | True      |
+| Users can click the right answer and it displays green | True  |
+| Users can click the wrong answer and it displays red | True   |
+| Users cannot click any answer buttons once clicked | True    |
+| Users can go to the next question without clicking any button | True |
+| Users can view the question number they are currently on | True |
+| Users can view the score                           | True      |
+| Users can view the progress bar                    | True      |
+| Users can save the score at the end of the game   | True      |
 
-## Validations
+
+
+## Validator Testing
+
+* HTML
+  *  I can confirm that all HTML on each page has passed without error in the official [W3C Validator](https://validator.w3.org/#validate_by_input)
+
+* CSS
+  *  I can confirm that all CSS has passed without error in the official [Jigsaw Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+* JavaScript
+  *  I can confirm that all JavaScript has passed without error in the official [JShint](https://jshint.com/)
+
+## Deployment
+
+**The project was deployed to GitHub Pages. These steps were followed:**
+
+* Login in to your **Github**.
+* From my GitHub project I went to **Settings**,
+* Then selected **Pages** on the left hand menu,
+* Under **Source** I selected **Deploy from a branch**,
+* Finally, under **branch** I set it to **main** - **root** and save.
+![Screenshot of Deployed](assets/images/deploy.png)
+
+**Forking the GitHub Repository:**
+
+* Find the repository you want to fork.
+* Click on the **Fork** button,
+* Wait for the forking process,
+* Once the fork is complete, you will be redirected to the page of your new repository. The name will be something like "YourName/OriginalRepo.
+
+**Cloning the GitHub Repository:**
+
+* Find the relevant GitHub repository.
+* Press the arrow on the **Code** button,
+* Copy the **link** that is shown in the drop-down,
+* Open the terminal, 
+* Move to the folder you want clone it,
+* In the terminal type **'git clone'** & then paste the link you copied in GitHub,
+* Press enter and your local clone will be created.
+
+The live website can be found here: <https://danijuniordev.github.io/investing-challenge/>
