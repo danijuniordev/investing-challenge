@@ -86,6 +86,7 @@ The investment exam quiz game offers users interactive pages including the Home 
 * Responsive design has been implemented and tested on standard screen sizes using the device toolbar in Google Chrome DevTools.
 
 |----------------------------------------------------|-----------|
+
 | Users can view quiz content by clicking start     | True      |
 | Users can click the right answer and it displays green | True  |
 | Users can click the wrong answer and it displays red | True   |
@@ -95,6 +96,7 @@ The investment exam quiz game offers users interactive pages including the Home 
 | Users can view the score                           | True      |
 | Users can view the progress bar                    | True      |
 | Users can save the score at the end of the game   | True      |
+
 
 
 
