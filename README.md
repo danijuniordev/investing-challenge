@@ -147,9 +147,15 @@ The live website can be found here: <https://danijuniordev.github.io/investing-c
 
 ## Credits
 
-1. **Readme References**
+1. **Youtube Videos**
+- I used this video as a reference to create my code, and I got a few ideas from it which I then supplemented with my own additions.
+- [Quiz](https://www.youtube.com/watch?v=IV34pOplBsY&t=724s)
+- I used this video to get the idea of how to implement skipping questions without clicking on the button.
+- [Quiz](https://www.youtube.com/watch?v=7b6HW8-67WE)
+
+2. **Readme References**
  - [MarvelManiaa](https://github.com/Priyanka-Dhanabal/MarvelManiaQuiz_PP2)
  - [Toons Quiz](https://github.com/GOkwori/Toons-Quiz?tab=readme-ov-file)
 
-2. **My mentor**
+3. **My mentor**
  - [Dick Vlaanderen](https://github.com/dickvla)
