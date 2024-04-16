@@ -78,6 +78,7 @@ The investment exam quiz game offers users interactive pages including the Home 
  7. **Font Awesome:** Icons.
  8. **Favicon.io:** Favicon creation.
  9. **Balsamiq:** Wireframes design.
+ 10. **Grammarly:** Assisting with grammar errors.
 
  ## Testing
  ### Manual Testing
