@@ -47,6 +47,10 @@ The quiz game consists of a Start button to initiate the quiz and a High Score b
 
 ![Main](assets/images/indexpage.png)
 
+- Progress Bar and Score
+The user can track their progress and view their score throughout the game.
+![Progress](assets/images/hud.png)
+
 - Question Cointainer
 The quiz interface displays questions along with four options. After selecting an option, it is highlighted, with a color indication (such as green for correct and red for incorrect) to indicate whether the choice was right or not.
 
@@ -56,6 +60,11 @@ The quiz interface displays questions along with four options. After selecting a
 After completing the quiz, the interface displays your result. You have the option to input your name and save your score, or alternatively, you can choose to play again or return to the home page.
 
 ![Score](assets/images/scorepage.png)
+
+- High Score
+The user can also save their score, but first, they need to fill in their name in the input field. If the input field is left empty, the user won't be able to click on the save button.
+
+![HighScore](assets/images/Highscore.png)
 
 ## Technologies Used
 
@@ -67,3 +76,4 @@ After completing the quiz, the interface displays your result. You have the opti
  6. **Git** Version control.
  7. **Font Awesome** Icons.
  8. **Favicon.io** Favicon creation.
+ 9. **Balsamiq** Wireframes design.
