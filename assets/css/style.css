@@ -9,6 +9,7 @@ span {
     color: white;
     font-size: 30px;
 }
+
 body {
     min-height: 100vh;
     display: flex;
@@ -30,7 +31,7 @@ body {
     justify-content: center;
 }
 
-.tex-center {
+.text-center {
     text-align: center;
 }
 
@@ -219,22 +220,6 @@ input {
     width: 0%;
 }
 
-@media only screen and (orientation: landscape) {
-    .container-main-page {
-        width: 80vh;
-        height: 80vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        max-width: 80rem;
-        margin: auto;
-        padding: 40px;
-        border: 2px solid white;
-        background-color: #70c2b68e;
-        border-radius: 40px;
-    }
-}
-
 /* Media query: tablets and larger (900px and up) */
 @media screen and (min-width: 900px) {
 
@@ -253,7 +238,7 @@ input {
     }
     
     .answer-container {
-        width: 100vh
+        width: 100vh;
     } 
 
 }
