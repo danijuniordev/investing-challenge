@@ -85,15 +85,17 @@ The investment exam quiz game offers users interactive pages including the Home 
 * The website has been tested changing the sizes and using navigation bar on follow browsers: Chrome, Microsoft Edge, Opera, Firefox, Safari.
 * For mobile testing, Google Chrome DevTools were utilized, and additional testing was conducted on a personal iPhone 11 Pro.
 * Responsive design has been implemented and tested on standard screen sizes using the device toolbar in Google Chrome DevTools.
-* Users can view quiz content by clicking start   
-* Users can click the right answer and it displays green 
-* Users can click the wrong answer and it displays red 
-* Users cannot click any answer buttons once clicked 
-* Users can go to the next question without clicking any button
-* Users can view the question number they are currently on 
-* Users can view the score                            
-* Users can view the progress bar                     
-* Users can save the score at the end of the game   
+* Users can access quiz content by clicking "Play".
+* When users click the correct answer, which will be displayed in green.
+* When users click the incorrect answer, which will be displayed in red.
+* Once clicked, users cannot select any answer buttons.
+* Users can proceed to the next question without clicking any button.
+* Users can view the current question number.
+* Users can see their score.
+* Users can observe the progress bar.
+* Users can save their score at the end of the game.
+* High scores display correctly.
+* The order of questions changes every time a new game is started.
 
 ## Validator Testing
 
